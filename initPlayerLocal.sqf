@@ -34,3 +34,7 @@ while { _desired_light < _light } do {
   ExileClientMoonLight setLightBrightness _light;
   sleep _step;
 };
+
+
+
+["InitializePlayer", [player]] call BIS_fnc_dynamicGroups;
