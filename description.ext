@@ -40,8 +40,8 @@ class CfgDebriefing
 	class End1
 	{
 		title = "Missão Cumprida";
-		subtitle = "Uplink Hackeado";
-		description = "PMC AEGIS conseguiu apagar os dados do uplink russo e garantir sua posição na região.";
+		subtitle = "Informações coletadas";
+		description = "PMC AEGIS conseguiu novas pistas sobre o caminhão com o material radioativo.";
 		pictureBackground = "";
 		picture = "b_inf";
 		pictureColor[] = {0.0,0.3,0.6,1};
