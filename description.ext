@@ -1,11 +1,10 @@
 #include "aegis\functions.hpp"
-#include "uplink\downloadData.hpp"
 
 author = "Toaster & Collumbus";
-onLoadName = "Omnis Oculum Videntem";
+onLoadName = "Cavalo de Tróia";
 onLoadMission = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
-loadScreen = "images\intro2.jpg";
-overviewPicture = "images\intro2.jpg";
+loadScreen = "images\intro3.jpg";
+overviewPicture = "images\intro3.jpg";
 overviewText = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
 
 /*player createDiaryRecord ["Diary", ["Execution", "A inserção do grupo AEGIS já foi iniciada por meio de contatos locais. <br/>O grupo sairá da residência do empresário que contataria João Silva, em seguida deverá iniciar incurssão pelo centro da cidade até a mesquita. <br/><br/>De lá, deverão avançar até o aeroporto, onde um avião aguarda o VIP para extração."]];
