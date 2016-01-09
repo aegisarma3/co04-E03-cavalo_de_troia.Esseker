@@ -2,10 +2,10 @@
 
 author = "Toaster & Collumbus";
 onLoadName = "Cavalo de Tróia";
-onLoadMission = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
+onLoadMission = "A equipe Kaiser consegue novas informações sobre o paradeiro do material radioativo.";
 loadScreen = "images\intro3.jpg";
 overviewPicture = "images\intro3.jpg";
-overviewText = "Uma nova informação ameaça os objetivos da PMC AEGIS na região de Esseker.";
+overviewText = "A equipe Kaiser consegue novas informações sobre o paradeiro do material radioativo.";
 
 /*player createDiaryRecord ["Diary", ["Execution", "A inserção do grupo AEGIS já foi iniciada por meio de contatos locais. <br/>O grupo sairá da residência do empresário que contataria João Silva, em seguida deverá iniciar incurssão pelo centro da cidade até a mesquita. <br/><br/>De lá, deverão avançar até o aeroporto, onde um avião aguarda o VIP para extração."]];
 player createDiaryRecord ["Diary", ["Missão", "O presidente d Anabel Engenharia contratou o <marker name='aegis'>AEGIS</marker> para fazer a <marker name='extracao'>extração</marker> de <marker name='vip'>João Silva</marker> até o aeroporto de Zargabad, aonde um <marker name='extracao'>C130</marker> está esperando."]];
