@@ -14,7 +14,7 @@ player createDiaryRecord ["Diary", ["Situação", " <marker name='vip'>João Sil
 
 enableDebugConsole = 1;
 respawn            = 4;
-respawnTemplates[] = {"ace_spectator"};
+//respawnTemplates[] = {"ace_spectator"};
 DisabledAI = true;
 
 
@@ -32,7 +32,7 @@ class Header
 {
 	gameType = RPG;
 	minPlayers = 1;
-	maxPlayers = 8;
+	maxPlayers = 12;
 };
 
 class CfgDebriefing

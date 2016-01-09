@@ -38,3 +38,16 @@ while { _desired_light < _light } do {
 
 
 ["InitializePlayer", [player]] call BIS_fnc_dynamicGroups;
+
+
+
+
+player addEventHandler ["Killed",
+{
+   ["Initialize", [player]] call BIS_fnc_EGSpectator;
+}];
+
+/*player addEventHandler ["Respawn",
+{
+   ["Terminate"] call BIS_fnc_EGSpectator;
+}];*/
